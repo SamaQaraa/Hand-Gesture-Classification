@@ -28,7 +28,7 @@ Each keypoint has **(x, y, z) coordinates**, which are used to classify gestures
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/hand-gesture-classification.git
+git clone https://github.com/SamaQaraa/Hand-Gesture-Classification.git
 cd hand-gesture-classification
 ```
 
@@ -54,10 +54,8 @@ python real_time_demo.py
 
 Here is a **real-time demo of the model running on my hand**:  
 
-<video width="640" height="360" controls>  
-  <source src="Demo.mp4" type="video/mp4">  
-  Your browser does not support the video tag.  
-</video>  
+[🎥 Watch the demo GIF here]
+![Alt](https://github.com/SamaQaraa/Hand-Gesture-Classification/raw/main/Demo.gif?raw=true?v=3)
 
 ---
 
@@ -72,7 +70,7 @@ Here is a **real-time demo of the model running on my hand**:
 - **Conclusion** – Selecting the best model.  
 
 ### ✅ Output Video  
-🎥 The **Demo.mp4** file contains a short video demonstrating real-time classification.  
+🎥 The **Output.mp4** file contains a short video demonstrating real-time classification.  
 
 ---
 
@@ -82,33 +80,3 @@ Here is a **real-time demo of the model running on my hand**:
 - The **output is stabilized** by taking the **mode of predictions** over a window.  
 
 ---
-
-## 📢 Final Step  
-Before submitting:  
-✅ Ensure your **GitHub repo** is public.  
-✅ Ensure the **Demo.mp4** video is inside your project folder.  
-✅ Run the code to verify everything works smoothly.  
-
-🚀 **Happy coding!**  
-```
-
----
-
-## 🔹 Important Notes:  
-- **GitHub does NOT support direct video playback**. If you push `Demo.mp4` to GitHub, it will show as a downloadable file.  
-- If you want **GitHub to display the video**, you need to **upload it to YouTube or Google Drive** and replace this line:  
-
-  ```markdown
-  <video width="640" height="360" controls>  
-    <source src="Demo.mp4" type="video/mp4">  
-    Your browser does not support the video tag.  
-  </video>
-  ```
-  **With a link to your video**:  
-  ```markdown
-  [🎥 Watch the demo video here](https://your-video-link.com)
-  ```
-
----
-
-This version **includes your video and image**, making your project more complete! 🎉 Let me know if you need any help! 🚀🔥
