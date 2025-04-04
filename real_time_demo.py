@@ -61,7 +61,7 @@ while cap.isOpened():
 
             # Display the prediction on the frame
             cv2.putText(frame, f'Prediction: {prediction}', (50, 50),
-                        cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0), 2, cv2.LINE_AA)
+                        cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2, cv2.LINE_AA)
 
     # Write the flipped frame to the video file
     out.write(frame)

@@ -54,7 +54,6 @@ python real_time_demo.py
 
 Here is a **real-time demo of the model running on my hand**:  
 
-[🎥 Watch the demo GIF here]
 ![Alt](https://github.com/SamaQaraa/Hand-Gesture-Classification/raw/main/Demo.gif?raw=true?v=3)
 
 ---
