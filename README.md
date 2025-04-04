@@ -68,9 +68,6 @@ Here is a **real-time demo of the model running on my hand**:
 - **Evaluation** – Reporting accuracy, precision, recall, and F1-score.  
 - **Conclusion** – Selecting the best model.  
 
-### ✅ Output Video  
-🎥 The **Output.mp4** file contains a short video demonstrating real-time classification.  
-
 ---
 
 ## 🔥 Notes & Improvements  
